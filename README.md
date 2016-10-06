@@ -1,5 +1,5 @@
 # gamirepo
 
-hello! world,
+hello! world2,
 
-this is my first edit to github.
+this is my second edit to github.
